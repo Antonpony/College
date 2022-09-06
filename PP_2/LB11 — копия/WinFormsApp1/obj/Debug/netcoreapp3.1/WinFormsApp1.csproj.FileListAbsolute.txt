@@ -1,0 +1,27 @@
+D:\College\PP\PP_2\LB11\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+D:\College\PP\PP_2\LB11\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+D:\College\PP\PP_2\LB11\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\College\PP\PP_2\LB11\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\PP\PP_2\LB11\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\College\PP\PP_2\LB11\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\College\PP\PP_2\LB11\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.ResolveComReference.cache
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\MyLib.dll
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\bin\Debug\netcoreapp3.1\MyLib.pdb
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CopyComplete
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+D:\College\PP\PP_2\LB11 — копия\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

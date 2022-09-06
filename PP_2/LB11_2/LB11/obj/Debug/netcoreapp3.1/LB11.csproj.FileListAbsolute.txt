@@ -1,0 +1,17 @@
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.AssemblyInfoInputs.cache
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.AssemblyInfo.cs
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.csproj.CoreCompileInputs.cache
+D:\College\PP\PP_2\LB11_2\LB11\bin\Debug\netcoreapp3.1\LB11.exe
+D:\College\PP\PP_2\LB11_2\LB11\bin\Debug\netcoreapp3.1\LB11.deps.json
+D:\College\PP\PP_2\LB11_2\LB11\bin\Debug\netcoreapp3.1\LB11.runtimeconfig.json
+D:\College\PP\PP_2\LB11_2\LB11\bin\Debug\netcoreapp3.1\LB11.runtimeconfig.dev.json
+D:\College\PP\PP_2\LB11_2\LB11\bin\Debug\netcoreapp3.1\LB11.dll
+D:\College\PP\PP_2\LB11_2\LB11\bin\Debug\netcoreapp3.1\LB11.pdb
+D:\College\PP\PP_2\LB11_2\LB11\bin\Debug\netcoreapp3.1\MyLib.dll
+D:\College\PP\PP_2\LB11_2\LB11\bin\Debug\netcoreapp3.1\MyLib.pdb
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.csproj.AssemblyReference.cache
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.csproj.CopyComplete
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.dll
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.pdb
+D:\College\PP\PP_2\LB11_2\LB11\obj\Debug\netcoreapp3.1\LB11.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+D:\College\PP\PP_2\LB11llllllllllllll\LB11Lib\obj\Debug\net5.0\LB11Lib.csproj.AssemblyReference.cache
+D:\College\PP\PP_2\LB11llllllllllllll\LB11Lib\obj\Debug\net5.0\LB11Lib.csproj.ResolveComReference.cache
+D:\College\PP\PP_2\LB11llllllllllllll\LB11Lib\obj\Debug\net5.0\LB11Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\PP\PP_2\LB11llllllllllllll\LB11Lib\obj\Debug\net5.0\LB11Lib.AssemblyInfoInputs.cache
+D:\College\PP\PP_2\LB11llllllllllllll\LB11Lib\obj\Debug\net5.0\LB11Lib.AssemblyInfo.cs
+D:\College\PP\PP_2\LB11llllllllllllll\LB11Lib\obj\Debug\net5.0\LB11Lib.csproj.CoreCompileInputs.cache

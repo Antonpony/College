@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\College\\PP\\PP_2\\LB11 — копия\\LB11\\LB11.csproj": {}
+  },
+  "projects": {
+    "D:\\College\\PP\\PP_2\\LB11 — копия\\LB11\\LB11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\PP\\PP_2\\LB11 — копия\\LB11\\LB11.csproj",
+        "projectName": "LB11",
+        "projectPath": "D:\\College\\PP\\PP_2\\LB11 — копия\\LB11\\LB11.csproj",
+        "packagesPath": "C:\\Users\\ipber\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\PP\\PP_2\\LB11 — копия\\LB11\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ipber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\College\\PP\\PP_2\\LB11 — копия\\MyLib\\MyLib.csproj": {
+                "projectPath": "D:\\College\\PP\\PP_2\\LB11 — копия\\MyLib\\MyLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\College\\PP\\PP_2\\LB11 — копия\\MyLib\\MyLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\PP\\PP_2\\LB11 — копия\\MyLib\\MyLib.csproj",
+        "projectName": "MyLib",
+        "projectPath": "D:\\College\\PP\\PP_2\\LB11 — копия\\MyLib\\MyLib.csproj",
+        "packagesPath": "C:\\Users\\ipber\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\PP\\PP_2\\LB11 — копия\\MyLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ipber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

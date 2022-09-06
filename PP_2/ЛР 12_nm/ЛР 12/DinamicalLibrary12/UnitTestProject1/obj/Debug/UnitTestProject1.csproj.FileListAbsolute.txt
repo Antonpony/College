@@ -1,0 +1,76 @@
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\DinamicalLibrary12.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\DinamicalLibrary12.pdb
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\DinamicalLibrary12.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\DinamicalLibrary12.pdb
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\DinamicalLibrary12.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\DinamicalLibrary12.pdb
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\DinamicalLibrary12.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\DinamicalLibrary12.pdb
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

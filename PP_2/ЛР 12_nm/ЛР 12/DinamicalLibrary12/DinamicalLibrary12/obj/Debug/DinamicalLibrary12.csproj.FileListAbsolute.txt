@@ -1,0 +1,24 @@
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\bin\Debug\DinamicalLibrary12.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\bin\Debug\DinamicalLibrary12.pdb
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.csprojAssemblyReference.cache
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.csproj.CoreCompileInputs.cache
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.dll
+H:\Шабалин Артем ПП\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.pdb
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.csprojAssemblyReference.cache
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.csproj.CoreCompileInputs.cache
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.pdb
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\bin\Debug\DinamicalLibrary12.dll
+J:\ПП 3 курс\Программы\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\bin\Debug\DinamicalLibrary12.pdb
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.pdb
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\bin\Debug\DinamicalLibrary12.dll
+C:\Users\Артем\Desktop\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\bin\Debug\DinamicalLibrary12.pdb
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\bin\Debug\DinamicalLibrary12.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\bin\Debug\DinamicalLibrary12.pdb
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.csproj.AssemblyReference.cache
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.csproj.CoreCompileInputs.cache
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\DinamicalLibrary12\DinamicalLibrary12\obj\Debug\DinamicalLibrary12.pdb

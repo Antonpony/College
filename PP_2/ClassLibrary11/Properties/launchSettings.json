@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ClassLibrary11": {
+      "commandName": "Executable"
+    }
+  }
+}

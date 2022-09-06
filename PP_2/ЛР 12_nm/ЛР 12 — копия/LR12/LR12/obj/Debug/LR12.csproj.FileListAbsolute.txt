@@ -1,0 +1,83 @@
+C:\Users\329282-23\Desktop\LR12\LR12\bin\Debug\LR12.exe.config
+C:\Users\329282-23\Desktop\LR12\LR12\bin\Debug\LR12.exe
+C:\Users\329282-23\Desktop\LR12\LR12\bin\Debug\LR12.pdb
+C:\Users\329282-23\Desktop\LR12\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+C:\Users\329282-23\Desktop\LR12\LR12\obj\Debug\LR12.Form1.resources
+C:\Users\329282-23\Desktop\LR12\LR12\obj\Debug\LR12.Properties.Resources.resources
+C:\Users\329282-23\Desktop\LR12\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+C:\Users\329282-23\Desktop\LR12\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+C:\Users\329282-23\Desktop\LR12\LR12\obj\Debug\LR12.exe
+C:\Users\329282-23\Desktop\LR12\LR12\obj\Debug\LR12.pdb
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.Form1.resources
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.Properties.Resources.resources
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.exe
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.pdb
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\bin\Debug\LR12.exe.config
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\bin\Debug\LR12.exe
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\bin\Debug\LR12.pdb
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.dll
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.pdb
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CopyComplete
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\bin\Debug\LR12.exe.config
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\bin\Debug\LR12.exe
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\bin\Debug\LR12.pdb
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.dll
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.pdb
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.Form1.resources
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.Properties.Resources.resources
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CopyComplete
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.exe
+C:\Users\329282-23\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.pdb
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\bin\Debug\LR12.exe.config
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\bin\Debug\LR12.exe
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\bin\Debug\LR12.pdb
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.dll
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.pdb
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.Form1.resources
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.Properties.Resources.resources
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CopyComplete
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.exe
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.pdb
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.AboutBox1.resources
+H:\Шабалин Артем ПП\ЛР 12\LR12\LR12\obj\Debug\LR12.Form3.resources
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.AboutBox1.resources
+C:\Users\Артем\Desktop\ЛР 12\LR12\LR12\obj\Debug\LR12.Form3.resources
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.csprojAssemblyReference.cache
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.exe
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.pdb
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\bin\Debug\LR12.exe.config
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\bin\Debug\LR12.exe
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\bin\Debug\LR12.pdb
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.dll
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.pdb
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.Form1.resources
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.Form3.resources
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.Properties.Resources.resources
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CopyComplete
+C:\Users\pvlkz\Downloads\ЛР 12 измененная под Пашу\ЛР 12\LR12\LR12\obj\Debug\LR12.AboutBox1.resources
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\bin\Debug\LR12.exe.config
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\bin\Debug\LR12.exe
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\bin\Debug\LR12.pdb
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.dll
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\bin\Debug\DinamicalLibrary12.pdb
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.AssemblyReference.cache
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.AboutBox1.resources
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.Form1.resources
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.Form3.resources
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.Properties.Resources.resources
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.GenerateResource.cache
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CoreCompileInputs.cache
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.csproj.CopyComplete
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.exe
+D:\College\PP\PP_2\ЛР 12_nm\ЛР 12\LR12\LR12\obj\Debug\LR12.pdb

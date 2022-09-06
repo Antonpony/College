@@ -1,0 +1,7 @@
+D:\College\PP\PP_2\LB12\obj\Debug\netcoreapp3.1\LB12.csproj.AssemblyReference.cache
+D:\College\PP\PP_2\LB12\obj\Debug\netcoreapp3.1\LB12.Form1.resources
+D:\College\PP\PP_2\LB12\obj\Debug\netcoreapp3.1\LB12.csproj.GenerateResource.cache
+D:\College\PP\PP_2\LB12\obj\Debug\netcoreapp3.1\LB12.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\PP\PP_2\LB12\obj\Debug\netcoreapp3.1\LB12.AssemblyInfoInputs.cache
+D:\College\PP\PP_2\LB12\obj\Debug\netcoreapp3.1\LB12.AssemblyInfo.cs
+D:\College\PP\PP_2\LB12\obj\Debug\netcoreapp3.1\LB12.csproj.CoreCompileInputs.cache
